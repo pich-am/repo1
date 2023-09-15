@@ -1,0 +1,11 @@
+1. Create a new Repository in your Laptop.
+What is the default branch name in your local repository? master
+2. Add a text file in your local repository.
+3. Commit it.
+4. Create another repository in the github.
+What is the default branch name in your github repository? main
+5. Add a text file in your local repository.
+6. Commit it.
+7. PUSH your local repository to the github.
+In the github,It will merge with your existing branch or it creates a new branch. 
+8. If we want that it always update the main branch what steps we need to follow? git pull
