@@ -1,6 +1,6 @@
 1. Create a new Repository in your Laptop.
 What is the default branch name in your local repository? master
-2. Add a text file in your local repository.
+Go to new branch and Add a text in line number 3
 3. Commit it.
 4. Create another repository in the github.
 What is the default branch name in your github repository? main
